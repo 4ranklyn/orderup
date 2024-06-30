@@ -341,9 +341,9 @@
                                             </div>
                                             <div class="col-10 col-md-10 my-auto">
                                                 <p class="mb-0 fw-bold">
-                                                    Syauqizaidan Khairan Khalaf
+                                                    Jasson Franklyn Wang
                                                 </p>
-                                                <small>Tukang tidur, 18 tahun</small>
+                                                <small>Tukang komen, 19 tahun</small>
                                             </div>
                                         </div>
                                     </div>
@@ -368,9 +368,9 @@
                                             </div>
                                             <div class="col-10 col-md-10 my-auto">
                                                 <p class="mb-0 fw-bold">
-                                                    Conrad Aditya Veranda
+                                                    Muhammad Danish Dhiyaulhaq
                                                 </p>
-                                                <small>Tukang genshin, 18 tahun</small>
+                                                <small>Tukang yapping, 20 tahun</small>
                                             </div>
                                         </div>
                                     </div>
@@ -395,9 +395,9 @@
                                             </div>
                                             <div class="col-10 col-md-10 my-auto">
                                                 <p class="mb-0 fw-bold">
-                                                    Andhika Febriansyah
+                                                    Laila Khoirunnisa
                                                 </p>
-                                                <small>Tukang bucin, 18 tahun</small>
+                                                <small>Tukang tidur, 20 tahun</small>
                                             </div>
                                         </div>
                                     </div>

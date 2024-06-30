@@ -108,12 +108,8 @@
                     <a class="nav-link link-dark text-grey px-2 no-effect-hover">|</a>
                 </li>
                 <li class="nav-item">
-                    <a href="https://wa.me/+628123456789" class="nav-link link-dark text-grey px-2" target="_blank">
-                        +628123456789</a>
-                </li>
-                <li class="nav-item">
-                    <a href="https://wa.me/+628987654321" target="_blank"
-                        class="nav-link link-dark text-grey px-2">+628987654321</a>
+                    <a href="https://wa.me/+6285778587970" class="nav-link link-dark text-grey px-2" target="_blank">
+                        +6285778587970</a>
                 </li>
             </ul>
         </div>
@@ -148,7 +144,7 @@
                         rame, jadi jangan lupa reservasi ya!
                     </p>
                     <small class="d-block mb-3">
-                        &copy; 2022 Syauqizaidan — Made with laravel 9.4.1 and bootstrap 5.2.0
+                        &copy; 2024 Kelompok 6
                     </small>
                 </div>
 

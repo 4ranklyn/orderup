@@ -10,7 +10,7 @@
                         dessert dan lain lain dengan harga kaki lima namun rasanya bintang lima. Outlet kita selalu
                         rame, jadi jangan lupa reservasi ya!">
     <meta name="keywords" content="OrderUp!, Open Source Restaurant Website">
-    <meta name="author" content="SYAUQIZAIDAN KHAIRAN KHALAF">
+    <meta name="author" content="KELOMPOK 6">
     <link rel="icon" href="{{ url('cuba/assets/images/favicon.ico') }}" type="image/x-icon">
     <link rel="shortcut icon" href="{{ url('cuba/assets/images/icon-192.png') }}" type="image/x-icon">
     <title>Masuk Aplikasi - OrderUp!</title>
